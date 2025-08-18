@@ -1,7 +1,7 @@
 ## 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=QUY-FE&show_icons=true&theme=light" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QUY-FE&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p> 
 
 ---
