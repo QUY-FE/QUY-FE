@@ -50,7 +50,7 @@
 
 ## 🏆 Dự án nổi bật  
 
-### 🔥 [Shoppe Clone](https://github.com/QUY-FE/shoppe-clone)  
+### 🔥 [Shoppe Clone](https://quy-fe.github.io/Clone-shopee)  
 > Clone UI Shopee với đầy đủ giỏ hàng, filter sản phẩm và responsive 100%.  
 
 
