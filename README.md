@@ -6,11 +6,8 @@
 
 ---
 
-
-
-- Xin chào! **Mình là Quý** là một **Frontend Developer** với đam mê xây dựng sản phẩm web hiện đại, responsive và tối ưu trải nghiệm người dùng.  
+- Xin chào! **Mình là Quý**, một **Frontend Developer** với đam mê xây dựng sản phẩm web hiện đại, responsive và tối ưu trải nghiệm người dùng.  
 - Mình yêu thích công nghệ, thích học cái mới và luôn muốn biến ý tưởng thành sản phẩm thực tế.
-
 
 ---
 
@@ -31,6 +28,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ---
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
@@ -52,29 +50,27 @@
 
 ## 🏆 Dự án nổi bật  
 
+### 💻 [QN Technology Store](https://qn-technology-store.vercel.app/)
+> Web bán đồ công nghệ với giao diện hiện đại, tích hợp giỏ hàng và thanh toán.
+
+### 📚 [QN Book Store](https://qn-book-store.vercel.app/)
+> Web bán sách trực tuyến, tối ưu trải nghiệm đọc và tìm kiếm sản phẩm,giao diện hiện đại, tích hợp giỏ hàng và thanh toán.
+
 ### 🔥 [Shoppe Clone](https://quy-fe.github.io/Clone-shopee)  
 > Clone UI Shopee với đầy đủ giỏ hàng, filter sản phẩm và responsive 100%.  
-
 
 ### 🌐 [DevTheNews](https://github.com/QUY-FE/devthenews)  
 > Website tin tức công nghệ, thiết kế hiện đại và responsive.  
   
-### 🌐  [Movie-web](https://movie-website-self-chi.vercel.app/) 
-> Web xem phim với React.js và tailwindcss
+### 🎬 [Movie-web](https://movie-website-self-chi.vercel.app/) 
+> Web xem phim xây dựng với React.js và TailwindCSS.
 
-### 🌐 [Web My-profile ](https://my-profile-rho-nine.vercel.app/)  
-> website profile của bản thân và responsive.  
+### 👤 [Web My-profile](https://my-profile-rho-nine.vercel.app/)  
+> Website profile cá nhân giới thiệu bản thân và dự án.  
   
 
 ---
 
-
-
 ## 📫 Liên hệ  
 
-- 📧 Email: **quysamp205@gmail.com**  
-- 📱 Phone Num: **0869498816**
-
----
-
-⭐️ *Nếu bạn thấy profile mình thú vị, đừng ngần ngại follow nhé!* 😎
+- 📧 Email: **quysamp205@gmail.com** - 📱 Phone Num: **0869498816**
